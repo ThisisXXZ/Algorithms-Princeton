@@ -1,9 +1,15 @@
 {
     "java.project.sourcePaths": [
-        ".",
-        "Hello-World"
+        "Hello-World",
+        "Union-Find"
     ],
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar"
-    ]
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "libs\\algs4.jar"
+        ],
+        "exclude": [
+            "lib/algs4.jar"
+        ]
+    }
 }
