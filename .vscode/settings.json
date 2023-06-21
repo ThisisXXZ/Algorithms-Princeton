@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
         "Union-Find",
+        "Queues",
         "Hello-World",
-        "Queues"
+        "Collinear"
     ],
     "java.project.referencedLibraries": {
         "include": [
