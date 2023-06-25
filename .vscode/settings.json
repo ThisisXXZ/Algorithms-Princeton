@@ -3,7 +3,8 @@
         "Union-Find",
         "Queues",
         "Hello-World",
-        "Collinear"
+        "Collinear",
+        "Puzzle"
     ],
     "java.project.referencedLibraries": {
         "include": [
