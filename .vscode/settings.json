@@ -1,11 +1,13 @@
 {
     "java.project.sourcePaths": [
+        "WordNet",
         "Union-Find",
         "Queues",
         "Puzzle",
+        "KDTree",
         "Hello-World",
         "Collinear",
-        "KDTree"
+        "SeamCarver"
     ],
     "java.project.referencedLibraries": {
         "include": [
