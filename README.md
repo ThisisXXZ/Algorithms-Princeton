@@ -10,3 +10,4 @@ There are total of 10 assignments in the course. A real challenge for Java begin
 * WordNet. 95/100
 * Seam Carving. 99/100
 * Baseball Elimination. 100/100
+* Boggle. 100/100
