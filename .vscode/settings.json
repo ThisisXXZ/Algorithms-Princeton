@@ -8,8 +8,10 @@
         "KDTree",
         "Hello-World",
         "Collinear",
+        "BurrowsWheeler/burrows",
+        "Boggle",
         "BaseballElimination",
-        "Boggle"
+        "BurrowsWheeler"
     ],
     "java.project.referencedLibraries": {
         "include": [
